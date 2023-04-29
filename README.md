@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaidaTM
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning in China obtaining my Bachelors 
+- 🌱 I’m currently learning in China obtaining my Bachelors Degree
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
